@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prj_supermanworld_a195281", "prj_supermanworld_a195281\prj_supermanworld_a195281.vbproj", "{08EA12B0-A741-4B2E-ACBC-9C5297AB86F7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_SupermanWorld", "Setup_SupermanWorld\Setup_SupermanWorld.vdproj", "{E647EF01-F74B-4D90-B8AF-D84B69249F74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08EA12B0-A741-4B2E-ACBC-9C5297AB86F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08EA12B0-A741-4B2E-ACBC-9C5297AB86F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08EA12B0-A741-4B2E-ACBC-9C5297AB86F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08EA12B0-A741-4B2E-ACBC-9C5297AB86F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E647EF01-F74B-4D90-B8AF-D84B69249F74}.Debug|Any CPU.ActiveCfg = Debug
+		{E647EF01-F74B-4D90-B8AF-D84B69249F74}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF2A08D3-615E-48E0-8495-4DD1B3081DEC}
+	EndGlobalSection
+EndGlobal
